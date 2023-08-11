@@ -1,0 +1,51 @@
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.deps.json
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.runtimeconfig.json
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.pdb
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.dll
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.pdb
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.AssemblyReference.cache
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfoInputs.cache
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfo.cs
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CoreCompileInputs.cache
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CopyComplete
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\refint\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.pdb
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.genruntimeconfig.cache
+G:\Fahim\Dot Net Core\Diagonistic\Diagon\Diagon.Infrastucture\obj\Debug\net7.0\ref\Diagon.Infrastucture.dll
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.deps.json
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.runtimeconfig.json
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.dll
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.pdb
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.dll
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.pdb
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.AssemblyReference.cache
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfoInputs.cache
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfo.cs
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CoreCompileInputs.cache
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CopyComplete
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.dll
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\refint\Diagon.Infrastucture.dll
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.pdb
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.genruntimeconfig.cache
+D:\Practice Project\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\ref\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.deps.json
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.runtimeconfig.json
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Infrastucture.pdb
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.dll
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\bin\Debug\net7.0\Diagon.Domain.pdb
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.AssemblyReference.cache
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfoInputs.cache
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.AssemblyInfo.cs
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CoreCompileInputs.cache
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.csproj.CopyComplete
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\refint\Diagon.Infrastucture.dll
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.pdb
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\Diagon.Infrastucture.genruntimeconfig.cache
+G:\Fahim\Dot Net Core\Diagonistic\AutoDiagon\Diagon.Infrastucture\obj\Debug\net7.0\ref\Diagon.Infrastucture.dll
